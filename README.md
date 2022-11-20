@@ -40,4 +40,4 @@ Durant ce projet j'ai pu :
 
 
 
-![object detection](Capture_object-detection.png)
+![object detection](object-detection.png)
